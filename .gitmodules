@@ -1,0 +1,6 @@
+[submodule "hector_slam"]
+	path = hector_slam
+	url = ./hector_slam
+[submodule "LMS1xx"]
+	path = LMS1xx
+	url = ./LMS1xx/
